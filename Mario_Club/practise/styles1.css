@@ -1,0 +1,9 @@
+span{
+    display: inline-block ;
+}
+div{
+    /* display: inline; */
+    border: 2px solid firebrick;
+    margin: 20px;
+    padding: 20px;
+}

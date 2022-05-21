@@ -1,0 +1,36 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: cadetblue;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+  color: plum;
+}
+p{
+    color: slategray;
+    text-align: left;
+    column-count: 2;
+    column-gap: 5px;
+    font-size: large;
+}
+ul{
+    /* border-width: 2px;
+    border-style: dotted;
+    border-color: aqua; */
+    /* border: 2px dotted aqua; */
+    border-bottom: 2px solid cadetblue;
+    border-left: 2px dashed darkolivegreen;
+    border-top: 2px dotted coral;
+    border-right: 2px dashed mediumpurple;
+}
+li{
+    list-style-type: square;
+    text-shadow: 2px 2px f0ff00;
+}
